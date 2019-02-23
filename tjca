@@ -2,7 +2,7 @@
 !!com.level5.alexa.tjca.Teacher
 - teacher: 
     firstName: donna
-    lastName:  trimble    
+    lastName: trimble    
     weeklyHomework:
       url: http://tjca.teamcfa.school/class/weekly-homework-oct-17-20/?teacher-name=Trimble&class-name=3rd_grade&teacher-id=372&class-id=326
       div: mce-content 
